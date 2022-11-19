@@ -248,6 +248,6 @@ void displayTasks() {
 	
 	for (int i = 0; i < tasksAsObjects.size(); i++) {
 		tasksAsObjects[i]->displayTaskMethod();
-		std::cout << std::endl;
+		//std::cout << std::endl;
 	}
 }

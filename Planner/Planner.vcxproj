@@ -137,6 +137,9 @@
   <ItemGroup>
     <Text Include="task_store.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="send_planner_notifications.py" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
